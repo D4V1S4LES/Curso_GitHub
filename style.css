@@ -1,5 +1,10 @@
 @import "style-fulano.css";
 
 body {
-  background-color: #141414;
+  background-color: #a7a7a7;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3, p {
+  color: #141414;
 }
